@@ -1,0 +1,32 @@
+*{
+    margin-left: 1px;
+    padding: 0px;
+}
+
+.header{
+     font-family: 'Times New Roman', Times, serif;
+     font-style: oblique;
+     text-align: center;
+    background-color: aqua;
+    padding: 10px;
+
+}
+
+.header h1:hover{
+
+    background-color: wheat;
+
+}
+.footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.subheading{
+    font-family: cursive;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
